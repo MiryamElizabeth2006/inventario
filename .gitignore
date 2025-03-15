@@ -1,0 +1,15 @@
+# Ignorar archivos compilados
+target/
+*.class
+
+# Ignorar configuraciones de IDEs
+.idea/
+.vscode/
+
+# Ignorar dependencias locales
+*.log
+*.env
+
+# Ignorar credenciales de AWS o configuración sensible
+config/
+/target/
